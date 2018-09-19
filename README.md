@@ -1,6 +1,6 @@
 # instagram_plug_in
 Instagram Plugin
-To setup the instagram feed just above the footer on all pages, Please follow the steps below.
+#To setup the instagram feed just above the footer on all pages, Please follow the steps below.
 
 Step 1: Get Client ID from Instagram
 Login to your Instagram Account
