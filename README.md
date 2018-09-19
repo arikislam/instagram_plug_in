@@ -1,7 +1,7 @@
 # instagram_plug_in
 Instagram Plugin
 <div class="col-md-12 left-align">
-                                <h2 class="dark-text">Instagram Feed<a href="#top">#back to top</a><hr></h2>
+                            
                                 <p>To setup the instagram feed just above the footer on all pages, Please follow the steps below.</p>
                                 <h4>Step 1: Get Client ID from Instagram</h4>
                                 <ol>
